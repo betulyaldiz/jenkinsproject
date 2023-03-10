@@ -1,5 +1,6 @@
 def test_hi():
-    print('Merhaba, jenkins düzgün calisiyor')
+    print('Merhaba, jenkins projesi')
     print('selamlar')
+    print("deneme")
 
 
