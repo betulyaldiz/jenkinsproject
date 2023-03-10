@@ -3,5 +3,4 @@ def test_hi():
     print('selamlar')
     print("deneme")
 
-
-
+test_hi()
